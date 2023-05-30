@@ -2,17 +2,15 @@ package Entidades;
 
 public class ProdutoImportado extends Produto {
 
-    private String cor;
-    private String marca;
+    private double taxa;
 
-    public ProdutoImportado(String nome, double preco, String cor, String marca) {
+    public ProdutoImportado(String nome, double preco, double taxa) {
         super(nome, preco);
-        this.cor = cor;
-        this.marca = marca;
+        this.taxa = taxa;
     }
 
     public String toString() {
-        return super.toString() + " | Cor: " + this.cor + " | Marca: " + this.marca;
+        return super.toString() + " | Taxa: " + this.taxa;
     }
 
 }
