@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f268c31-7f0c-498f-acf6-de19e09d644e" name="Changes" comment="exercicio 6.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entidades/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entidades/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entidades/ProdutoImportado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entidades/ProdutoImportado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entidades/ProdutoUsado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entidades/ProdutoUsado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="2f268c31-7f0c-498f-acf6-de19e09d644e" name="Changes" comment="exercicio 8." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature-exercicio06" />
+        <entry key="$PROJECT_DIR$" value="feature-exercicio08" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685137487227</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exercicio 8.">
+      <created>1685461152399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685461152399</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +101,7 @@
     <MESSAGE value="exercicio 3." />
     <MESSAGE value="exercicio 5." />
     <MESSAGE value="exercicio 6." />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicio 6." />
+    <MESSAGE value="exercicio 8." />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio 8." />
   </component>
 </project>
